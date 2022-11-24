@@ -1,0 +1,4 @@
+{
+    "testRepo": "block-or-inline-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
